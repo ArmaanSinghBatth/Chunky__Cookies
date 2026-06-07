@@ -89,6 +89,18 @@ export default function Navbar() {
           </li>
         </ul>
 
+        {/* Hamburger (mobile) */}
+        <button
+          className={`hamburger${open ? " open" : ""}`}
+          onClick={() => setOpen((v) => !v)}
+          aria-label={open ? "Close menu" : "Open menu"}
+          aria-expanded={open}
+        >
+          <span />
+          <span />
+          <span />
+        </button>
+
         {/* Mobile: cart icon + hamburger
         <div style={{ display: "flex", alignItems: "center", gap: 10 }}>
           <button

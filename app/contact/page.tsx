@@ -53,7 +53,7 @@ export default function ContactPage() {
           <div style={{ fontSize: "clamp(2rem,5vw,2.8rem)", marginBottom: 14 }}>📸</div>
           <h3 style={{ fontFamily: "'Fraunces',serif", fontSize: "1.1rem", fontWeight: 700, color: "#2C1A0E", marginBottom: 8 }}>Follow on Instagram</h3>
           <p style={{ fontSize: "0.88rem", color: "#6B3A1F", lineHeight: 1.6 }}>
-            @chunkycookies — Daily bakes, new flavours, and behind-the-scenes!
+            @chunkycookiesindia — Daily bakes, new flavours, and behind-the-scenes!
           </p>
         </a>
       </div>

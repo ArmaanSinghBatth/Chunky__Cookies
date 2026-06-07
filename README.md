@@ -1,3 +1,9 @@
+🍪 Chunky Cookie is a responsive web portal built for cookie lovers. The platform provides an engaging online shopping experience where users can browse a variety of cookies, add items to their cart, place orders, and track purchases. The project focuses on user-friendly design, efficient product management, and secure order processing, making it a complete e-commerce solution for a cookie business.
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
